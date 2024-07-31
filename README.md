@@ -1,3 +1,5 @@
+Passionate and detail-oriented full-stack developer with a background in mechanical engineering and computer science. Gained coding fundamentals during a two-year hiatus while working as a bartender. Enhanced skills at App Academy, mastering technologies like React, Node.js, and PostgreSQL. Specializes in designing efficient database schemas. Enthusiastic about building, fixing, and creating innovative solutions.
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alexxgo) 
 
