@@ -1,4 +1,4 @@
-Passionate and detail-oriented full-stack developer with a background in mechanical engineering and computer science. Gained coding fundamentals during a two-year hiatus while working as a bartender. Enhanced skills at App Academy, mastering technologies like React, Node.js, and PostgreSQL. Specializes in designing efficient database schemas. Enthusiastic about building, fixing, and creating innovative solutions.
+Passionate and detail-oriented full-stack developer with a background in mechanical engineering and computer science. Developed strong coding fundamentals during a two-year hiatus, where I dedicated time to learning programming while working as a bartender. Enhanced my skills at App Academy, mastering technologies like React, Node.js, and PostgreSQL. Specializes in designing efficient database schemas. Enthusiastic about building, fixing, and creating innovative solutions.
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
