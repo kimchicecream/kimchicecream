@@ -1,6 +1,6 @@
-Hi! 
+Hi
 
-I am a software engineer with a background in mechanical engineering and computer science. Full-stack development is one of my core strengths, with experience building responsive, user-friendly interfaces and designing efficient backend systems. I built strong programming fundamentals during a two-year hiatus while working as a bartender, then sharpened my skills at App Academy using technologies like React, Node.js, and PostgreSQL. I take pride in crafting clean UI/UX and well-structured database schemas, and **I’m driven by my love for building, fixing, and improving real-world systems.**
+I am a software engineer. Full-stack development is one of my core strengths, with experience building responsive, user-friendly interfaces and designing efficient backend systems. I take pride in crafting clean UI/UX and well-structured database schemas, and **I’m driven by my love for building, fixing, and improving real-world systems.**
 
 
 ### 💻 Tech Stack
