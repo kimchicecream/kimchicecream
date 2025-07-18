@@ -1,6 +1,8 @@
 Hi,
 
-I am a software engineer. Full-stack development is one of my core strengths, with experience building responsive, user-friendly interfaces and designing efficient backend systems. I take pride in crafting clean UI/UX and well-structured database schemas, and **I’m driven by my love for building, fixing, and improving real-world systems.**
+I am a software engineer. Full-stack development is one of my core strengths, with experience building responsive, user-friendly interfaces and designing efficient backend systems. 
+
+I take pride in crafting clean UI/UX and well-structured database schemas, and **I’m driven by my love for building, fixing, and improving real-world systems.**
 
 
 ### 💻 Tech Stack
